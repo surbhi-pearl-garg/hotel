@@ -8,6 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="en">
 <head>
 <title>Shubham Hotel</title>
+<meta name="csrf-token" content="{{ csrf_token() }}">
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -27,8 +28,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--fonts-->
 <link href="//fonts.googleapis.com/css?family=Osdero" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
-<!--//fonts-->wald:300,400,700" rel="stylesheet">
-<link href="//fonts.googleapis.com/css?family=Fe
+<!--//fonts-->
+<link href="//fonts.googleapis.com/css?family=Fewald:300,400,700" rel="stylesheet">
 </head>
 <body>
 <!-- header -->
@@ -800,7 +801,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
                     <div class="control-group form-group">
                         <div class="controls">
                             <label class="contact-p1">Message:</label>
-                            <input type="text" class="form-control" name="message" id="message" required data-validation-required-message="Please enter your email address.">
+                            <textarea type="text" class="form-control" name="message" id="message" required data-validation-required-message="Please enter your email address."></textarea>
 							<p class="help-block"></p>
 						</div>
                     </div>

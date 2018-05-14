@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Mail;
 
-class mailcontroller extends Controller
+class MailController extends Controller
 {
     public function index()
     {
@@ -14,21 +14,22 @@ class mailcontroller extends Controller
     public function post(Request $req)
     {
     	$req->validate([
-    		'email'=>'required',
-    		'subject'=>'required',
-    		'message'=>'required'
+    		'email' => 'required',
+    		'subject' => 'required',
+    		'message' => 'required'
     	]);
-    	$data=[
+    	$data = [
     		'email'=>$req->email,
     		'subject'=>$req->subject,
     		'bodyMessage'=>$req->message
     	];
-    	Mail::send('mail.mail',$data,function($message)use($data){
-    		$message->from('ronantaneja@gmail.com','Surbhi');
-    		$message->to($data['email']);
-    		$message->subject($data['subject']);
 
+    	Mail::send('mail.mail',$data,function($message)use($data){
+    		$message->to('tanejaronan@gmail.com', 'Surbhi');
+            $message->replyTo($data['email']);
+    		$message->subject($data['subject']);
     	});
+        return 'ok';
     	return redirect()->back();
     }
 }

@@ -1,3 +1,6 @@
-<h3>this is your message</h3>
-<p>{{$bodyMessage}}</p>
-hi hello welcome
+<h3>Enquiry mail</h3>
+
+<p>
+	Email: {{ $email }}
+</p>
+<p>{{ $bodyMessage }}</p>

@@ -16,4 +16,14 @@ Route::get('/', function () {
 });
 
 Route::get('mail','mailController@index');
-Route::post('postMail','mailController@post');
+Route::post('mail','MailController@post');
+
+Route::get('test-mail', function() {
+
+	// \Mail::send('mail.mail', [ 'bodyMessage' => 'Hello World' ], function($message) {
+	// 	$message->to('md-adil@live.com');
+	// 	$message->subject('Test Mail');
+	// });
+	// return 'Message sent successfully.';
+
+});
