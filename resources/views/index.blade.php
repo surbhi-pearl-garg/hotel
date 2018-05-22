@@ -816,7 +816,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 			<h4>Connect With Us</h4>
 			<p class="contact-agile1"><strong>Phone :</strong> +91 9812053561  &nbsp;&nbsp; +91 9255510001</p>
 			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:shubhamhotelgohana@gmail.com">shubhamhotelgohana@gmail.com</a></p>
-			<p class="contact-agile1"><strong>Address :</strong>35 Km Outer, Rohtak Road, Gohana, Sonepat - 131301, Near Bus Stand, Opposite Tata Nano Agency</p>
+			<p class="contact-agile1"><strong>Address :</strong>3.5 KM Outer, Rohtak Road, Gohana, Sonepat - 131301, Near Bus Stand, Opposite Tata Nano Agency</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
