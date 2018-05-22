@@ -36,17 +36,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="banner-top">
 			<div class="social-bnr-agileits">
 				<ul class="social-icons3">
-								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li> 
-								<li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
+								<li><a href="https://www.facebook.com/Shubham-Hotel-Gohana-243133319582221/?hc_ref=ARSNoAWvjWJdn2SxRY4M0MGEVmM4GrxMK0Q_oErKnQ9NOT73qQH_DpAVLaYNk1kxvf4" class="fa fa-facebook icon-border facebook"> </a></li>
+							<!--	<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li> -->
+								<li><a href="https://plus.google.com/u/2/117763561165794278293" class="fa fa-google-plus icon-border googleplus"> </a></li> 
+
+								<!--<li><a href="#" class="jdtext-icon header_sprite pl-10"> </a></li> -->
 							</ul>
 			</div>
 			<div class="contact-bnr-w3-agile">
 				<ul>
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">INFO@EXAMPLE.COM</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9812093561  +91 9255510001</li>	
-					<li class="s-bar">
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:shubhamhotelgohana@gmail.com">shubhamhotelgohana@gmail.com</a></li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9812053561 &nbsp;&nbsp; +91 9255510001</li>	
+				<!--	<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
 							<label class="icon-search" for="search_box"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></label>
@@ -57,7 +58,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</form>
 							</div>
 						</div>
-					</li>
+					</li> -->
 				</ul>
 			</div>
 			<div class="clearfix"></div>
@@ -77,13 +78,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.html">Shubham <span>Hotel</span><p class="logo_w3l_agile_caption">Stay with us and feel like home</p></a></h1>
+					<h1><a class="navbar-brand" href="#">Shubham <span>Hotel</span><p class="logo_w3l_agile_caption">Stay with us and feel like home</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav class="menu menu--iris">
 						<ul class="nav navbar-nav menu__list">
-							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link">Home</a></li>
+							<li class="menu__item menu__item--current"><a href="#" class="menu__link">Home</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">About</a></li>
 						<!--	<li class="menu__item"><a href="#team" class="menu__link scroll">Team</a></li>	-->
 							<li class="menu__item"><a href="#gallery" class="menu__link scroll">Gallery</a></li>
@@ -695,9 +696,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<i class="fa fa-star" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>Rooms qualities are just too good. Clean, well architected, good service, well mannered staff etc etc. Moreover charges are very nominal.In short a must visit hotel in Agra.</p>
-								<h5>Ravi</h5>
-								<p>Panipat</p>
+								<p>Wow! Food was very testy and also the supporting staff was very polite and they helped to make decision. Also the way of talking</p>
+								<h5>Anand Prakash</h5>
+							<!--	<p>Panipat</p> -->
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -718,8 +719,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								Worth to come again
 								</h4>
 								<p>I had my own doubts about the hotel till I reached there. But we had a great time at Shubham Hotel and we would love to visit again.We (Friends & colleague 11Person) stayed here for 1 days, and we had the best time at the Shubham. The rooms are neat and clean, the bathroom is also well maintained. The ambiance of the Shubham hotel is very beautiful.Its an ideal place for families, friends and also for couples. Value for our Money.</p>
-								<h5>Rakesh Mailk</h5>
-								<p>Dubai</p>
+								<h5>Amarjeet</h5>
+								<!--<p></p> -->
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -743,7 +744,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 								<h5>Naira</h5>
-								<p>Panipat</p>
+							<!--	<p>Panipat</p> -->
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -765,7 +766,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 								</h4>
 								<p>The restaurant had a friendly atmosphere with high class service and exceptional food. My compliments again to the wonderful chef and his staff and thanks to Shubham for taking such good care of us. </p>
 								<h5>Ankit</h5>
-								<p>Delhi</p>
+							<!--	<p>Delhi</p> -->
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -813,16 +814,16 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Connect With Us</h4>
-			<p class="contact-agile1"><strong>Phone :</strong> +91 9255499101  +91 9812053561</p>
-			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">info@example.com</a></p>
+			<p class="contact-agile1"><strong>Phone :</strong> +91 9812053561  &nbsp;&nbsp; +91 9255510001</p>
+			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:shubhamhotelgohana@gmail.com">shubhamhotelgohana@gmail.com</a></p>
 			<p class="contact-agile1"><strong>Address :</strong>35 Km Outer, Rohtak Road, Gohana, Sonepat - 131301, Near Bus Stand, Opposite Tata Nano Agency</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
-								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li> 
-								<li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
+								<li><a href="https://www.facebook.com/Shubham-Hotel-Gohana-243133319582221/?hc_ref=ARSNoAWvjWJdn2SxRY4M0MGEVmM4GrxMK0Q_oErKnQ9NOT73qQH_DpAVLaYNk1kxvf4" class="fa fa-facebook icon-border facebook"> </a></li>
+							<!--	<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li> -->
+								<li><a href="https://plus.google.com/u/2/117763561165794278293" class="fa fa-google-plus icon-border googleplus"> </a></li> 
+							<!--	<li><a href="#" class="fa fa-rss icon-border rss"> --></a></li>
 							</ul>
 			</div>
 			<iframe src="https://www.google.com/maps?q= Opposite Tata Nano Agency, Gohana-Rohtak Rd, Gohana, Haryana 131301&output=embed" >

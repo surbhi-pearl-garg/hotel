@@ -18,18 +18,19 @@ class MailController extends Controller
     		'subject' => 'required',
     		'message' => 'required'
     	]);
+
     	$data = [
     		'email'=>$req->email,
     		'subject'=>$req->subject,
     		'bodyMessage'=>$req->message
     	];
 
-    	Mail::send('mail.mail',$data,function($message)use($data){
-    		$message->to('tanejaronan@gmail.com', 'Surbhi');
+    	Mail::send('mail.mail', $data, function($message) use ($data) {
+            $message->to(config('mail.from.address'), config('mail.from.name'));
             $message->replyTo($data['email']);
     		$message->subject($data['subject']);
     	});
+        
         return 'ok';
-    	return redirect()->back();
     }
 }
