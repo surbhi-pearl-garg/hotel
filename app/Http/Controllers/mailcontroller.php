@@ -24,11 +24,13 @@ class mailcontroller extends Controller
     		'bodyMessage'=>$req->message
     	];
     	Mail::send('mail.mail',$data,function($message)use($data){
-    		$message->from('ronantaneja@gmail.com','Surbhi');
+    		$message->from('tanejaronan@gmail.com','Surbhi');
     		$message->to($data['email']);
+              $message->replyTo($data['email']);
     		$message->subject($data['subject']);
 
     	});
+        return ok;
     	return redirect()->back();
     }
 }
