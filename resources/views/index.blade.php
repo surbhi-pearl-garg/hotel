@@ -256,7 +256,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   <div class="ab-w3l-spa">
                             <h3 class="title-w3-agileits title-black-wthree">About Shubham Hotel</h3> 
 
-						 <p class="about-para-w3ls" align = "Justifyz">Having been established in the year 1999, this hospitality destination has grown to become the ideal place for travelers and those on business to feel at home when in the city.  The hotel functions from 00:00- - 23:59- all through the week. It has a total of 10+ ratings. When in the city, be sure to enjoy a stay here as it is known to be one of the leading Hotels In Gohana.</p> 
+						 <p class="about-para-w3ls" align = "Justifyz">Having been established in the year 1999, this hospitality destination has grown to become the ideal place for travelers and those on business to feel at home when in the city.  The hotel functions 24 Hours all through the week. It has a total of 10+ ratings. When in the city, be sure to enjoy a stay here as it is known to be one of the leading Hotel in Gohana.</p> 
 						   <img src="images/about.jpg" class="img-responsive" alt="Shubham Hotel">
 										<div class="w3l-slider-img">
 											<img src="images/a1.jpg" class="img-responsive" alt="Shubham Hotel">
@@ -437,6 +437,105 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- Gallery -->
 <section class="portfolio-w3ls" id="gallery">
 		 <h3 class="title-w3-agileits title-black-wthree">Our Gallery</h3>
+		 <div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g17.jpg" class="swipebox"><img src="images/g17.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g18.jpg" class="swipebox"><img src="images/g18.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g19.jpg" class="swipebox"><img src="images/g19.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g20.jpg" class="swipebox"><img src="images/g20.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g21.jpg" class="swipebox"><img src="images/g21.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g22.jpg" class="swipebox"><img src="images/g22.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g23.jpg" class="swipebox"><img src="images/g23.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g24.jpg" class="swipebox"><img src="images/g24.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g25.jpg" class="swipebox"><img src="images/g25.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g26.jpg" class="swipebox"><img src="images/g26.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+				<div class="col-md-3 gallery-grid gallery1">
+					<a href="images/g27.jpg" class="swipebox"><img src="images/g27.jpg" class="img-responsive" alt="/">
+						<div class="textbox">
+						<h4>Shubham Hotel</h4>
+							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
+						</div>
+				</a>
+				</div>
+
+
+
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
@@ -696,8 +795,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<i class="fa fa-star" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>Wow! Food was very testy and also the supporting staff was very polite and they helped to make decision. Also the way of talking</p>
-								<h5>Anand Prakash</h5>
+								<p>The restaurant had a friendly atmosphere with high class service and exceptional food. My compliments again to the wonderful chef and his staff and thanks to Shubham for taking such good care of us. </p>
+								<h5>Dharmendra</h5>
 							<!--	<p>Panipat</p> -->
 							</div>
 							<div class="clearfix"> </div>
@@ -714,13 +813,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star-o" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>I had my own doubts about the hotel till I reached there. But we had a great time at Shubham Hotel and we would love to visit again.We (Friends & colleague 11Person) stayed here for 1 days, and we had the best time at the Shubham. The rooms are neat and clean, the bathroom is also well maintained. The ambiance of the Shubham hotel is very beautiful.Its an ideal place for families, friends and also for couples. Value for our Money.</p>
-								<h5>Amarjeet</h5>
-								<!--<p></p> -->
+								<p>Super comfortable hotel close to main bus stand. Warm quiet rooms and first class breakfast. Without exception the staff were superb.</p>
+								<h5>Sidhu</h5>
+							<!--	<p>Delhi</p> -->
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -729,6 +828,51 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<img src="images/5.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_work_grid_left_pos">
 									<img src="images/c3.jpg" alt=" " class="img-responsive" />
+								</div>
+							</div>
+							<div class="w3layouts_work_grid_right">
+								<h4>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star-o" aria-hidden="true"></i>
+								Worth to come again
+								</h4>
+								<p>I had my own doubts about the hotel till I reached there. But we had a great time at Shubham Hotel and we would love to visit again.We (Friends & colleague 11Person) stayed here for 1 days, and we had the best time at the Shubham. The rooms are neat and clean, the bathroom is also well maintained. The ambiance of the Shubham hotel is very beautiful.Its an ideal place for families, friends and also for couples. Value for our Money.</p>
+								<h5>Anand Prakash</h5>
+								<!--<p></p> -->
+							</div>
+							<div class="clearfix"> </div>
+						</li>
+						<li>
+							<div class="w3layouts_work_grid_left">
+								<img src="images/5.jpg" alt=" " class="img-responsive" />
+								<div class="w3layouts_work_grid_left_pos">
+									<img src="images/c4.jpg" alt=" " class="img-responsive" />
+								</div>
+							</div>
+							<div class="w3layouts_work_grid_right">
+								<h4>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star-o" aria-hidden="true"></i>
+								<i class="fa fa-star-o" aria-hidden="true"></i>
+								Worth to come again
+								</h4>
+								<p>Wow! Food was very testy and also the supporting staff was very polite and they helped to make decision. Also the way of talking.  </p>
+								<h5>Amarjeet</h5>
+							<!--	<p>Delhi</p> -->
+							</div>
+
+							<div class="clearfix"> </div>
+						</li>
+						<li>
+							<div class="w3layouts_work_grid_left">
+								<img src="images/5.jpg" alt=" " class="img-responsive" />
+								<div class="w3layouts_work_grid_left_pos">
+									<img src="images/c4.jpg" alt=" " class="img-responsive" />
 								</div>
 							</div>
 							<div class="w3layouts_work_grid_right">
@@ -752,7 +896,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 							<div class="w3layouts_work_grid_left">
 								<img src="images/5.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_work_grid_left_pos">
-									<img src="images/c4.jpg" alt=" " class="img-responsive" />
+									<img src="images/c3.jpg" alt=" " class="img-responsive" />
 								</div>
 							</div>
 							<div class="w3layouts_work_grid_right">
@@ -764,7 +908,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>The restaurant had a friendly atmosphere with high class service and exceptional food. My compliments again to the wonderful chef and his staff and thanks to Shubham for taking such good care of us. </p>
+								<p>Great Hotel, Great location and very pleasant staff. Really happy with the breakfast options, the general cleanliness of the hotel. </p>
 								<h5>Ankit</h5>
 							<!--	<p>Delhi</p> -->
 							</div>
@@ -782,7 +926,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile2" data-aos="flip-left">
 			<div class="contact-agileits">
 				<h4>Contact Us</h4>
-				<p class="contact-agile2">Sign Up For Our News Letters</p>
+				<!--<p class="contact-agile2">Sign Up For Our News Letters</p> -->
 				<form action="/post" method="post" name="sentMessage" id="contactForm" novalidate>
 					{{csrf_field()}}
 					<div class="control-group form-group">
@@ -794,11 +938,12 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
                     </div>	
                     <div class="control-group form-group">
                         <div class="controls">
-                            <label class="contact-p1">Subject:</label>
+                            <label class="contact-p1">Phone:</label>
                             <input type="text" class="form-control" name="subject" id="subject" required data-validation-required-message="Please enter your subject.">
 							<p class="help-block"></p>
 						</div>
-                    </div>
+					</div>
+						
                     <div class="control-group form-group">
                         <div class="controls">
                             <label class="contact-p1">Message:</label>
@@ -816,7 +961,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 			<h4>Connect With Us</h4>
 			<p class="contact-agile1"><strong>Phone :</strong> +91 9812053561  &nbsp;&nbsp; +91 9255510001</p>
 			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:shubhamhotelgohana@gmail.com">shubhamhotelgohana@gmail.com</a></p>
-			<p class="contact-agile1"><strong>Address :</strong>3.5 KM Outer, Rohtak Road, Gohana, Sonepat - 131301, Near Bus Stand, Opposite Tata Nano Agency</p>
+			<p class="contact-agile1"><strong>Address :</strong>Opposite Tata Nano Agency, Rohtak Road Near Bus Stand, Gohana, Sonepat - 131301</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
@@ -836,7 +981,7 @@ We can only say Thank you and we hope to see you again soon at Shubham.  </p>
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2018 Shubham Hotel. All Rights Reserved | Design by <a href="http://crologic.net/">Crologic Solutions</a> </p>
+		        <p>© 1999 Shubham Hotel. All Rights Reserved | Design by <a href="http://crologic.net/">Crologic Solutions</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
